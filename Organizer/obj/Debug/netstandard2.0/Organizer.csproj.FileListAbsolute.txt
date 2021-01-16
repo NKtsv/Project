@@ -1,0 +1,17 @@
+D:\prog\Project\Organizer\Organizer\Organizer\bin\Debug\netstandard2.0\Organizer.deps.json
+D:\prog\Project\Organizer\Organizer\Organizer\bin\Debug\netstandard2.0\Organizer.dll
+D:\prog\Project\Organizer\Organizer\Organizer\bin\Debug\netstandard2.0\ref\Organizer.dll
+D:\prog\Project\Organizer\Organizer\Organizer\bin\Debug\netstandard2.0\Organizer.pdb
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.csprojAssemblyReference.cache
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.AssemblyInfoInputs.cache
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.AssemblyInfo.cs
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.csproj.CoreCompileInputs.cache
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.dll
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\ref\Organizer.dll
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\Organizer.pdb
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\AllEventPage.xaml.g.cs
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\EventEditorPage.xaml.g.cs
+D:\prog\Project\Organizer\Organizer\Organizer\obj\Debug\netstandard2.0\ExtEventPage.xaml.g.cs

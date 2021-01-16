@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Organizer.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="RoyalBlue" Padding="12" CornerRadius="0">
+                <Label Text="Planed Events for Today" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <ListView x:Name="TodayEvents"
+                      ItemsSource="{Binding TodayEvents}"
+                      ItemTapped="OnItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <Grid>
+
+                                </Grid>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Add an Event" Clicked="AddEvent"/>
+            <Button Text="Show All Events" Clicked="AllEvent"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
